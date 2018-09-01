@@ -7,5 +7,6 @@ public class Hello
         // push test
         // conflict?
         // bug fix
+        // stash test
     }
 }
