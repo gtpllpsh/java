@@ -6,5 +6,6 @@ public class Hello
         System.out.println("Test branch");
         // add something
         // push test
+        // conflict?
     }
 }
